@@ -1,0 +1,3 @@
+el:
+  spree:
+    minimum_order_value: Minimum order value
